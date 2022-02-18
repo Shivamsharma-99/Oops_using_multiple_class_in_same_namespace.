@@ -1,0 +1,8 @@
+C:\Users\shiva\source\repos\Oops\Oops\bin\Debug\Oops.exe.config
+C:\Users\shiva\source\repos\Oops\Oops\bin\Debug\Oops.exe
+C:\Users\shiva\source\repos\Oops\Oops\bin\Debug\Oops.pdb
+C:\Users\shiva\source\repos\Oops\Oops\obj\Debug\Oops.csproj.AssemblyReference.cache
+C:\Users\shiva\source\repos\Oops\Oops\obj\Debug\Oops.csproj.SuggestedBindingRedirects.cache
+C:\Users\shiva\source\repos\Oops\Oops\obj\Debug\Oops.csproj.CoreCompileInputs.cache
+C:\Users\shiva\source\repos\Oops\Oops\obj\Debug\Oops.exe
+C:\Users\shiva\source\repos\Oops\Oops\obj\Debug\Oops.pdb
